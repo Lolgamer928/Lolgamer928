@@ -9,7 +9,7 @@
 
 guns.lol/sioss
 
-## i know these language
+## I KNOW THESE LANGUAGE
 
 - Python
 
